@@ -1,3 +1,0 @@
-Almost everybody earns money in this world, but very few of them actually spend it in a wise way. There is no doubt that managing finances will help anybody to have a
-secure and safe financial future. I have attempted to solve this problem by creating a Real-Time Finance Management System (RFMS) wherein users can easily manage their finances. RFMS will also help users to learn more about stocks. They can create a sample portfolio of stocks and monitor them closely to see which direction their picked stocks
-are headed. Graphs have been provided in the system for them to easily visualize and see the numbers in a clear perspective. Apart from stocks RFMS helps the users to manage their finances using the different finance management tools and calculators provided.
